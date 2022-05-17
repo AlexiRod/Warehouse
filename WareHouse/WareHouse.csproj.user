@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CSVForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RandomSectionsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WareForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

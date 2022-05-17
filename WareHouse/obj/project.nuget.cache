@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q9XVSDbu6YH96UiEaS2kaAchEtngnD0A4IHAOwaVeLYLqC4JlqQLsI2PlPEjrFUyrnoXsxmCxTvR1+c1qERM/A==",
+  "success": true,
+  "projectFilePath": "D:\\ВШЭ\\Прога\\Домашки\\Peer Grade\\WareHouse\\WareHouse\\WareHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ax\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512",
+    "C:\\Users\\Ax\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
